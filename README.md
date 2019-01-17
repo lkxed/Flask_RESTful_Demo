@@ -1,4 +1,4 @@
-# PMS 用户接口文档
+# 用户接口文档
 
 - 使用 Python [Flask_RESTful](https://flask-restful.readthedocs.io/en/latest/) 模块，接口设计遵循 **RESTful** 风格
 
